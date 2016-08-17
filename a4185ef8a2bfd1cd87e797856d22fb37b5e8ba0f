@@ -1,0 +1,8 @@
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 06 Apr 2015 17:19:29 +0000
+Reviewed-on: https://review.openstack.org/170862
+Project: openstack/deb-oslo.policy
+Branch: refs/heads/stable/kilo
