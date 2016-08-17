@@ -1,0 +1,10 @@
+Code-Review+2: Steve Martinelli <s.martinelli@gmail.com>
+Code-Review+1: Kseniya Tychkova <ktychkova@mirantis.com>
+Code-Review+2: Rodrigo Duarte <rodrigodsousa@gmail.com>
+Workflow+1: Rodrigo Duarte <rodrigodsousa@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 09 Aug 2016 13:38:25 +0000
+Reviewed-on: https://review.openstack.org/352722
+Project: openstack/deb-oslo.policy
+Branch: refs/heads/master

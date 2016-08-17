@@ -1,0 +1,9 @@
+Code-Review+2: ChangBo Guo(gcb) <glongwave@gmail.com>
+Code-Review+2: Steve Martinelli <s.martinelli@gmail.com>
+Workflow+1: Steve Martinelli <s.martinelli@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 21 Jul 2016 23:18:17 +0000
+Reviewed-on: https://review.openstack.org/325645
+Project: openstack/deb-oslo.policy
+Branch: refs/heads/master

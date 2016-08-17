@@ -1,0 +1,8 @@
+Code-Review+2: Steve Martinelli <s.martinelli@gmail.com>
+Workflow+1: Joshua Harlow <jxharlow@godaddy.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 13 Jul 2016 00:38:07 +0000
+Reviewed-on: https://review.openstack.org/340777
+Project: openstack/deb-oslo.policy
+Branch: refs/heads/master

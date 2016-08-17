@@ -1,0 +1,9 @@
+Code-Review+2: Joshua Harlow <jxharlow@godaddy.com>
+Code-Review+2: Ronald Bradford <ronald.bradford@gmail.com>
+Workflow+1: Ronald Bradford <ronald.bradford@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 20 Jul 2016 20:07:15 +0000
+Reviewed-on: https://review.openstack.org/341446
+Project: openstack/deb-oslo.policy
+Branch: refs/heads/master

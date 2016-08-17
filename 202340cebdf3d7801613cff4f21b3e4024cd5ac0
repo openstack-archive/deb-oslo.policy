@@ -1,0 +1,9 @@
+Code-Review+2: Samuel de Medeiros Queiroz <samueldmq@gmail.com>
+Code-Review+2: Rodrigo Duarte <rodrigodsousa@gmail.com>
+Workflow+1: Rodrigo Duarte <rodrigodsousa@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 06 Jul 2016 21:28:27 +0000
+Reviewed-on: https://review.openstack.org/338503
+Project: openstack/deb-oslo.policy
+Branch: refs/heads/master
