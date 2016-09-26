@@ -41,8 +41,8 @@ Build-Depends-Indep: python-coverage,
                      subunit,
                      testrepository,
 Standards-Version: 3.9.8
-Vcs-Browser: https://anonscm.debian.org/cgit/openstack/python-oslo.policy.git/
-Vcs-Git: https://anonscm.debian.org/git/openstack/python-oslo.policy.git
+Vcs-Browser: https://git.openstack.org/cgit/openstack/deb-oslo.policy?h=debian%2Fnewton
+Vcs-Git: https://git.openstack.org/openstack/deb-oslo.policy -b debian/newton
 Homepage: https://github.com/openstack/oslo.policy
 
 Package: python-oslo.policy
