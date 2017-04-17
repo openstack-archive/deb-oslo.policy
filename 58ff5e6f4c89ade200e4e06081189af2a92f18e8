@@ -1,0 +1,8 @@
+Code-Review+2: Thomas Goirand <thomas@goirand.fr>
+Workflow+1: Thomas Goirand <thomas@goirand.fr>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 17 Apr 2017 19:00:43 +0000
+Reviewed-on: https://review.openstack.org/457311
+Project: openstack/deb-oslo.policy
+Branch: refs/heads/master
